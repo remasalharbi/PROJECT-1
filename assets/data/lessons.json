@@ -1,0 +1,177 @@
+[
+  {
+    "language": "JavaScript",
+    "title": "JS Variables",
+    "summary": "This lesson covers the basics of JS Variables in JavaScript.",
+    "content": "JS Variables is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/nbX0MIV7-Ek?si=lKkVrpmy4ZHgpbJO"
+  },
+  {
+    "language": "C++",
+    "title": "C++ Introduction",
+    "summary": "This lesson covers the basics of C++ Introduction in C++.",
+    "content": "C++ Introduction is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/McojvctVsUs?si=jCMhwIxqybjzH6rs"
+  },
+  {
+    "language": "Python",
+    "title": "Python Loops",
+    "summary": "This lesson covers the basics of Python Loops in Python.",
+    "content": "Python Loops is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=6iF8Xb7Z3wQ"
+  },
+  {
+    "language": "Dart",
+    "title": "Introduction to Dart",
+    "summary": "This lesson covers the basics of Introduction to Dart in Dart.",
+    "content": "Introduction to Dart is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/QGqMJzywasg?si=6qlU9EjIiieR8Ovf"
+  },
+  {
+    "language": "Java",
+    "title": "Java Syntax",
+    "summary": "This lesson covers the basics of Java Syntax in Java.",
+    "content": "Java Syntax is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/-f4N7_-E5lc?si=By-9N2TZOZZyX3tD"
+  },
+  {
+    "language": "JavaScript",
+    "title": "JavaScript Functions",
+    "summary": "This lesson covers the basics of JavaScript Functions in JavaScript.",
+    "content": "JavaScript Functions is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/j1laALb8OVM?si=TYRJCOyOLGqjK_aQ"
+  },
+  {
+    "language": "C++",
+    "title": "C++ Functions",
+    "summary": "This lesson covers the basics of C++ Functions in C++.",
+    "content": "C++ Functions is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the he concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/C83tPpvxIJA?si=oJtIVLglKa01Q3tq"
+  },
+  {
+    "language": "C++",
+    "title": "C++ Syntax",
+    "summary": "This lesson covers the basics of C++ Syntax in C++.",
+    "content": "C++ Syntax is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=vLnPwxZdW4Y"
+  },
+  {
+    "language": "Python",
+    "title": "Python Functions",
+    "summary": "This lesson covers the basics of Python Functions in Python.",
+    "content": "Python Functions is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+  },
+  {
+    "language": "Dart",
+    "title": "Dart Keywords",
+    "summary": "This lesson covers the basics of Dart Keywords in Dart.",
+    "content": "Dart Keywords is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+  },
+  {
+    "language": "Dart",
+    "title": "Dart Loops",
+    "summary": "This lesson covers the basics of Dart Loops in Dart.",
+    "content": "Dart Loops is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+  },
+  {
+    "language": "JavaScript",
+    "title": "JavaScript Syntax",
+    "summary": "This lesson covers the basics of JavaScript Syntax in JavaScript.",
+    "content": "JavaScript Syntax is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+  },
+  {
+    "language": "Python",
+    "title": "Python Variables",
+    "summary": "This lesson covers the basics of Python Variables in Python.",
+    "content": "Python Variables is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/LKFrQXaoSMQ?si=Z9Pjf7vbRlu5kp-f"
+  },
+  {
+    "language": "Java",
+    "title": "Java Functions",
+    "summary": "This lesson covers the basics of Java Functions in Java.",
+    "content": "Java Functions is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/izzJtoZnbHY?si=JxsVdi0sUkHk_3hW"
+  },
+  {
+    "language": "Java",
+    "title": "Introduction to Java",
+    "summary": "This lesson covers the basics of Introduction to Java in Java.",
+    "content": "Introduction to Java is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/mG4NLNZ37y4?si=yp0y_Ycmvn56clXd"
+  },
+  {
+    "language": "C++",
+    "title": "C++ Variables",
+    "summary": "This lesson covers the basics of C++ Variables in C++.",
+    "content": "C++ Variables is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=ZzaPdXTrSb8"
+  },
+  {
+    "language": "Dart",
+    "title": "Dart Functions",
+    "summary": "This lesson covers the basics of Dart Functions in Dart.",
+    "content": "Dart Functions is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+  },
+  {
+    "language": "JavaScript",
+    "title": "JS Loops",
+    "summary": "This lesson covers the basics of JS Loops in JavaScript.",
+    "content": "JS Loops is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+  },
+  {
+    "language": "Python",
+    "title": "Introduction to Python",
+    "summary": "This lesson covers the basics of Introduction to Python in Python.",
+    "content": "Introduction to Python is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/EGZc-XIlBe4?si=DUfjECRQ9FoLpQT8"
+  },
+  {
+    "language": "Java",
+    "title": "Java Variables",
+    "summary": "This lesson covers the basics of Java Variables in Java.",
+    "content": "Java Variables is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://youtu.be/so1iUWaLmKA?si=npsIIki0bRwRYjf3"
+  },
+  {
+    "language": "C++",
+    "title": "C++ Loops",
+    "summary": "This lesson covers the basics of C++ Loops in C++.",
+    "content": "C++ Loops is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=ZzaPdXTrSb8"
+  },
+{
+    "language": "JavaScript",
+    "title": "Introduction to JavaScript",
+    "summary": "This lesson covers the basics of Introduction to JavaScript in JavaScript.",
+    "content": "Introduction to JavaScript is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=FtaQSdrl7YA"
+  },
+  {
+    "language": "Dart",
+    "title": "Dart Variables",
+    "summary": "This lesson covers the basics of Dart Variables in Dart.",
+    "content": "Dart Variables is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=Efaq4LvS-es"
+  },
+  {
+    "language": "Java",
+    "title": "Java Loops",
+    "summary": "This lesson covers the basics of Java Loops in Java.",
+    "content": "Java Loops is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=LGn-NhUzb6Q"
+  },
+  {
+    "language": "Python",
+    "title": "Python Syntax",
+    "summary": "This lesson covers the basics of Python Syntax in Python.",
+    "content": "Python Syntax is a foundational concept in programming. This lesson explores its definition, use cases, and how to apply it through simple examples. You'll learn its syntax, best practices, and where it fits in real-world coding. We’ll cover common mistakes and how to avoid them. By mastering this, you'll gain confidence to apply the concept effectively in your own code.",
+    "videoUrl": "https://www.youtube.com/watch?v=A2NnIWCYnMQ"
+  }
+]

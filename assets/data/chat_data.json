@@ -1,0 +1,89 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for its readability and simplicity. It's widely used in web development, data science, AI, and automation."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is a high-level, object-oriented programming language designed to have as few implementation dependencies as possible. It's widely used for building enterprise-scale applications."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a lightweight, interpreted programming language primarily used to make web pages interactive. It runs in the browser and is essential for front-end development."
+  },
+  {
+    "question": "What is Dart?",
+    "answer": "Dart is a client-optimized language developed by Google, used mainly for building mobile, desktop, and web apps with frameworks like Flutter."
+  },
+  {
+    "question": "What is C++?",
+    "answer": "C++ is a powerful, high-performance programming language used for system/software development and game programming. It supports object-oriented, procedural, and generic programming."
+  },
+  {
+    "question": "C++ Loops",
+    "answer": "In C++, loops like for, while, and do-while are used to execute a block of code multiple times until a condition is false."
+  },
+  {
+    "question": "C++ Variables",
+    "answer": "Variables in C++ are used to store data such as integers, characters, and floating-point numbers. You must declare a variable with a specific data type."
+  },
+  {
+    "question": "C++ Syntax",
+    "answer": "C++ syntax includes statements ending with semicolons, use of curly braces for code blocks, and type declarations for variables."
+  },
+  {
+    "question": "C++ Functions",
+    "answer": "Functions in C++ allow you to group code into reusable blocks. You define a function with a return type, name, and parameters."
+  },
+  {
+    "question": "Java Variables",
+    "answer": "Java variables are containers that store data values. Each variable must be declared with a type, such as int, String, or boolean."
+  },
+  {
+    "question": "Java Functions",
+    "answer": "Functions in Java are called methods. They are blocks of code that perform a specific task and are defined within classes."
+  },
+  {
+    "question": "Java Syntax",
+    "answer": "Java syntax includes class definitions, method declarations, semicolons to end statements, and curly braces to group code blocks."
+  },
+  {
+    "question": "JavaScript Syntax",
+    "answer": "JavaScript syntax includes statements ending in semicolons, use of curly braces for blocks, and variable declarations with var, let, or const."
+  },
+  {
+    "question": "JavaScript Functions",
+    "answer": "JavaScript functions are blocks of code designed to perform tasks. They can be defined using function keyword or arrow syntax."
+  },
+  {
+    "question": "JS Loops",
+    "answer": "JavaScript supports for, while, and do-while loops for repeating a block of code until a certain condition is met."
+  },
+  {
+    "question": "JS Variables",
+    "answer": "Variables in JavaScript can be declared using var, let, or const, and are used to store data like numbers or strings."
+  },
+  {
+    "question": "Dart Functions",
+    "answer": "Functions in Dart are blocks of code that perform actions. They can be named or anonymous, and support optional parameters."
+  },
+  {
+    "question": "Dart Loops",
+    "answer": "Dart includes for, while, and do-while loops to repeat code blocks. Loops are commonly used for iteration and control flow."
+  },
+  {
+    "question": "Dart Keywords",
+    "answer": "Dart has reserved keywords like class, void, if, else, return, which cannot be used as variable names."
+  },
+  {
+    "question": "Python Variables",
+    "answer": "In Python, variables are created when you assign a value to them. You don’t need to declare a type explicitly."
+  },
+  {
+    "question": "Python Functions",
+    "answer": "Python functions are defined using the def keyword and are used to encapsulate code for reuse and modularity."
+  },
+  {"question": "Python Loops",
+    "answer": "Python has for and while loops to iterate over sequences or execute code while a condition is true."
+  }
+]

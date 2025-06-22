@@ -1,0 +1,152 @@
+[
+  {
+    "category": "JavaScript",
+    "title": "JS Variables",
+    "rating": 4.9,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "C++",
+    "title": "C++ Introduction",
+    "rating": 3.2,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Python",
+    "title": "Python Loops",
+    "rating": 3.2,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Dart",
+    "title": "Introduction to Dart",
+    "rating": 3.2,
+    "duration": "15 Mins"
+  },
+  {
+    "category": "Java",
+    "title": "Java Syntax",
+    "rating": 2.5,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "JavaScript",
+    "title": "JavaScript Functions",
+    "rating": 4.1,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "C++",
+    "title": "C++ Functions",
+    "rating": 3.2,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "C++",
+    "title": "C++ Syntax",
+    "rating": 3.8,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Python",
+    "title": "Python Functions",
+    "rating": 4.1,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "Dart",
+    "title": "Dart Keywords",
+    "rating": 4.9,
+    "duration": "1 Hrs"
+  },
+  {
+    "category": "Dart",
+    "title": "Dart Loops",
+    "rating": 2.8,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "JavaScript",
+    "title": "JavaScript Syntax",
+    "rating": 2.5,
+    "duration": "1 Hrs"
+  },
+  {
+    "category": "Python",
+    "title": "Python Variables",
+    "rating": 4.9,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Java",
+    "title": "Java Functions",
+    "rating": 4.1,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Java",
+    "title": "Introduction to Java",
+    "rating": 4.7,
+    "duration": "15 Mins"
+  },
+  {
+    "category": "C++",
+    "title": "C++ Variables",
+    "rating": 2.8,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "Dart",
+    "title": "Dart Functions",
+    "rating": 3.2,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "JavaScript",
+    "title": "JS Loops",
+    "rating": 3.2,
+    "duration": "1 Hrs"
+  },
+  {
+    "category": "Python",
+    "title": "Introduction to Python",
+    "rating": 4.7,
+    "duration": "15 Mins"
+  },
+  {
+    "category": "Java",
+    "title": "Java Variables",
+    "rating": 4.9,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "C++",
+    "title": "C++ Loops",
+    "rating": 2.1,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "JavaScript",
+    "title": "Introduction to JavaScript",
+    "rating": 4.7,
+    "duration": "2 Hrs"
+  },
+  {
+    "category": "Dart",
+    "title": "Dart Variables",
+    "rating": 4.1,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Java",
+    "title": "Java Loops",
+    "rating": 3.2,
+    "duration": "30 Mins"
+  },
+  {
+    "category": "Python",
+    "title": "Python Syntax",
+    "rating": 2.5,
+    "duration": "30 Mins"
+  }
+]

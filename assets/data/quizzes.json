@@ -1,0 +1,433 @@
+
+  {
+    "Java Loops": [
+      {
+        "question": "Which loop is guaranteed to execute at least once in Java?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "do-while"
+      },
+      {
+        "question": "Which keyword is used to skip the current iteration in a loop?",
+        "options": ["continue", "break", "skip"],
+        "correctAnswer": "continue"
+      },
+      {
+        "question": "What type of loop is ideal when the number of iterations is known?",
+        "options": ["while", "for", "do-while"],
+        "correctAnswer": "for"
+      }
+    ],
+  
+    "Python Variables": [
+      {
+        "question": "Which character is used to assign a value to a variable in Python?",
+        "options": ["=", "==", ":"],
+        "correctAnswer": "="
+      },
+      {
+        "question": "Which of these is a valid Python variable name?",
+        "options": ["2value", "_value", "value-name"],
+        "correctAnswer": "_value"
+      },
+      {
+        "question": "What is the result of: `x = 5; print(type(x))`?",
+        "options": ["int", "str", "float"],
+        "correctAnswer": "int"
+      }
+    ],
+  
+  
+    "C++ Functions": [
+      {
+        "question": "Which keyword is used to define a function in C++?",
+        "options": ["func", "define", "void"],
+        "correctAnswer": "void"
+      },
+      {
+        "question": "Which part of a function determines what it returns?",
+        "options": ["Return type", "Parameter list", "Function name"],
+        "correctAnswer": "Return type"
+      },
+      {
+        "question": "How do you call a function named `add`?",
+        "options": ["call add()", "add()", "function add()"],
+        "correctAnswer": "add()"
+      }
+    ],
+  
+    "JS Variables": [
+      {
+        "question": "What keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "let", "const"],
+        "correctAnswer": "let"
+      },
+      {
+        "question": "Which of the following is a valid variable name?",
+        "options": ["1variable", "_variable", "variable-name"],
+        "correctAnswer": "_variable"
+      },
+      {
+        "question": "What is the result of typeof 'hello' in JavaScript?",
+        "options": ["string", "number", "undefined"],
+        "correctAnswer": "string"
+      }
+    ],
+    "C++ Introduction": [
+      {
+        "question": "What is the correct way to include a standard library in C++?",
+        "options": ["#include <iostream>", "#include iostream", "#include <std>"],
+        "correctAnswer": "#include <iostream>"
+      },
+      {
+        "question": "What is the main function in C++?",
+        "options": ["void main()", "int main()", "main()"],
+        "correctAnswer": "int main()"
+      },
+      {
+        "question": "Which symbol is used for comments in C++?",
+        "options": ["//", "#", "/*"],
+        "correctAnswer": "//"
+      }
+    ],
+    "Python Loops": [
+      {
+        "question": "Which loop is used for iterating over a sequence in Python?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "for"
+      },
+      {
+        "question": "What keyword is used to exit a loop in Python?",
+        "options": ["exit", "break", "stop"],
+        "correctAnswer": "break"
+      },
+      {
+        "question": "How do you create a while loop in Python?",
+        "options": ["while (condition):", "while condition:", "while {condition}:"],
+        "correctAnswer": "while condition:"
+      }
+    ],
+    "Introduction to Dart": [
+      {
+        "question": "What is the primary use of Dart?",
+        "options": ["Web development", "Mobile apps", "Game development"],
+        "correctAnswer": "Mobile apps"
+      },
+      {
+        "question": "Which keyword is used to define a class in Dart?",
+        "options": ["class", "define", "function"],
+        "correctAnswer": "class"
+      },
+      {
+        "question": "What is the output of print('Hello, Dart!');?",
+        "options": ["Hello, Dart!", "Hello Dart", "Error"],
+        "correctAnswer": "Hello, Dart!"
+      }
+    ],
+    "Java Syntax": [
+      {
+        "question": "Which symbol is used to end a statement in Java?",
+        "options": [".", ";", ":"],
+        "correctAnswer": ";"
+      },
+      {
+        "question": "What is the correct way to start the main method in Java?",
+        "options": ["public static void main()", "void main()", "main()"],
+        "correctAnswer": "public static void main()"
+      },
+      {
+        "question": "Which of the following is a valid comment in Java?",
+        "options": ["// This is a comment", "/* This is a comment", "# This is a comment"],
+        "correctAnswer": "// This is a comment"
+      }
+    ],
+    "JavaScript Functions": [
+      {
+        "question": "What keyword is used to declare a function in JavaScript?",
+        "options": ["function", "def", "func"],
+        "correctAnswer": "function"
+      },
+      {
+        "question": "How do you call a function named 'myFunction'?",
+        "options": ["call myFunction()", "myFunction()", "invoke myFunction()"],
+        "correctAnswer": "myFunction()"
+      },
+      {
+        "question": "Which of the following is a valid function declaration?",
+        "options": ["function myFunction()", "myFunction() = function()", "function: myFunction()"],
+        "correctAnswer": "function myFunction()"
+      }
+    ],
+    "C++ Syntax": [
+      {
+        "question": "Which symbol is used to end a statement in C++?",
+        "options": [".", ";", ":"],
+        "correctAnswer": ";"
+      },
+      {
+        "question": "What is the correct way to define a main function in C++?",
+        "options": ["void main()", "int main()", "main()"],
+        "correctAnswer": "int main()"
+      },
+      {
+        "question": "Which of the following is a valid comment in C++?",
+        "options": ["// This is a comment", "/* This is a comment", "# This is a comment"],
+        "correctAnswer": "// This is a comment"
+      }
+    ],
+    "Python Functions": [
+      {
+        "question": "What keyword is used to define a function in Python?",
+        "options": ["def", "function", "func"],
+        "correctAnswer": "def"
+      },
+      {
+        "question": "How do you call a function named 'add'?",
+        "options": ["call add()", "add()", "invoke add()"],
+        "correctAnswer": "add()"
+      },
+      {
+        "question": "What is the output of the following code: def func(): return 5; print(func())?",
+        "options": ["5", "None", "Error"],
+        "correctAnswer": "5"
+      }
+    ],
+    "Dart Keywords": [
+      {
+        "question": "Which keyword is used to declare a constant in Dart?",
+        "options": ["const", "final", "static"],
+        "correctAnswer": "const"
+      },
+      {
+        "question": "What does the 'var' keyword do in Dart?",
+        "options": ["Defines a variable", "Defines a constant", "Defines a function"],
+        "correctAnswer": "Defines a variable"
+      },
+      {
+        "question": "Which keyword is used for asynchronous programming in Dart?",
+        "options": ["async", "await", "defer"],
+        "correctAnswer": "async"
+      }
+    ],
+    "Dart Loops": [
+      {
+        "question": "Which loop is used to repeat a block of code in Dart?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "for"
+      },
+      {
+        "question": "What keyword is used to exit a loop in Dart?",
+        "options": ["exit", "break", "stop"],
+        "correctAnswer": "break"
+      },
+      {
+        "question": "How do you create a while loop in Dart?",
+        "options": ["while (condition) {}", "while condition {}", "while {condition}"],
+        "correctAnswer": "while (condition) {}"
+      }
+    ],
+    "JavaScript Syntax": [
+      {
+        "question": "Which symbol is used to end a statement in JavaScript?",
+        "options": [".", ";", ":"],
+        "correctAnswer": ";"
+      },
+      {
+        "question": "What is the correct way to start a JavaScript function?",
+        "options": ["function myFunction()", "myFunction():", "myFunction() = function"],
+        "correctAnswer": "function myFunction()"
+      },
+      {
+        "question": "Which of the following is a valid comment in JavaScript?",
+        "options": ["// This is a comment", "/* This is a comment", "# This is a comment"],
+        "correctAnswer": "// This is a comment"
+      }
+    ],
+    "Java Functions": [
+      {
+        "question": "What keyword is used to define a function in Java?",
+        "options": ["function", "def", "void"],
+        "correctAnswer": "void"
+      },
+      {
+        "question": "How do you call a function named 'calculate'?",
+        "options": ["calculate()", "call calculate()", "invoke calculate()"],
+        "correctAnswer": "calculate()"
+      },
+      {
+        "question": "What is the return type of the main method in Java?",
+        "options": ["void", "int", "String"],
+        "correctAnswer": "int"
+      }
+    ],
+    "Introduction to Java": [
+      {
+        "question": "What is Java primarily used for?",
+        "options": ["Web development", "Mobile apps", "Enterprise applications"],
+        "correctAnswer": "Enterprise applications"
+      },
+      {
+        "question": "Which of the following is a feature of Java?",
+        "options": ["Platform independence", "Pointer arithmetic", "Low-level programming"],
+        "correctAnswer": "Platform independence"
+      },
+      {
+        "question": "Which keyword is used to create a new class in Java?",
+        "options": ["class", "new", "define"],
+        "correctAnswer": "class"
+      }
+    ],
+    "C++ Variables": [
+      {
+        "question": "Which keyword is used to declare a variable in C++?",
+        "options": ["var", "let", "int"],
+        "correctAnswer": "int"
+      },
+      {
+        "question": "What is the default value of an uninitialized integer variable in C++?",
+        "options": ["0", "undefined", "garbage value"],
+        "correctAnswer": "garbage value"
+      },
+      {
+        "question": "Which of the following is a valid variable declaration in C++?",
+        "options": ["int 1var;", "int var1;", "int var-name;"],
+        "correctAnswer": "int var1;"
+      }
+    ],
+    "Dart Functions": [
+      {
+        "question": "What keyword is used to define a function in Dart?",
+        "options": ["def", "function", "void"],
+        "correctAnswer": "void"
+      },
+      {
+        "question": "How do you return a value from a function in Dart?",
+        "options": ["return value;", "value;", "return: value;"],
+        "correctAnswer": "return value;"
+      },
+      {
+        "question": "How do you call a function named 'display'?",
+        "options": ["display()", "call display()", "invoke display()"],
+        "correctAnswer": "display()"
+      }
+    ],
+    "JS Loops": [
+      {
+        "question": "Which loop runs at least once in JavaScript?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "do-while"
+      },
+      {
+        "question": "What keyword is used to skip the current iteration in a loop?",
+        "options": ["continue", "break", "skip"],
+        "correctAnswer": "continue"
+      },
+      {
+        "question": "What type of loop is ideal when the number of iterations is known?",
+        "options": ["while", "for", "do-while"],
+        "correctAnswer": "for"
+      }
+    ],
+    "Introduction to Python": [
+      {
+        "question": "What is Python primarily used for?",
+        "options": ["Web development", "Data analysis", "Game development"],
+        "correctAnswer": "Data analysis"
+      },
+      {
+        "question": "Which symbol is used for comments in Python?",
+        "options": ["//", "#", "/*"],
+        "correctAnswer": "#"
+      },
+      {
+        "question": "What is the output of print('Hello World!')?",
+        "options": ["Hello World!", "HelloWorld!", "Error"],
+        "correctAnswer": "Hello World!"
+      }
+    ],
+    "Java Variables": [
+      {
+        "question": "Which keyword is used to declare a variable in Java?",
+        "options": ["var", "let", "int"],
+        "correctAnswer": "int"
+      },
+      {
+        "question": "What is the default value of an uninitialized boolean variable in Java?",
+        "options": ["true", "false", "0"],
+        "correctAnswer": "false"
+      },
+      {
+        "question": "Which of the following is a valid variable name in Java?",
+        "options": ["1variable", "_variable", "variable-name"],
+        "correctAnswer": "_variable"
+      }
+    ],
+    "C++ Loops": [
+      {
+        "question": "Which loop is guaranteed to execute at least once in C++?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "do-while"
+      },
+      {
+        "question": "What keyword is used to terminate a loop in C++?",
+        "options": ["exit", "break", "stop"],
+        "correctAnswer": "break"
+      },
+      {
+        "question": "What type of loop is ideal when the number of iterations is known?",
+        "options": ["for", "while", "do-while"],
+        "correctAnswer": "for"
+      }
+    ],
+    "Introduction to JavaScript": [
+      {
+        "question": "What is JavaScript primarily used for?",
+        "options": ["Web development", "Mobile apps", "Game development"],
+        "correctAnswer": "Web development"
+      },
+      {
+        "question": "Which keyword is used to declare a variable in JavaScript?",
+        "options": ["var", "let", "const"],
+        "correctAnswer": "let"
+      },
+      {
+        "question": "What does 'console.log()' do in JavaScript?",
+        "options": ["Logs to console", "Prints to screen", "Returns value"],
+        "correctAnswer": "Logs to console"
+      }
+    ],
+    "Dart Variables": [
+      {
+        "question": "Which keyword is used to declare a variable in Dart?",
+        "options": ["var", "let", "const"],
+        "correctAnswer": "var"
+      },
+      {
+        "question": "What is the default value of an uninitialized variable in Dart?",
+        "options": ["null", "0", "undefined"],
+        "correctAnswer": "null"
+      },
+      {
+        "question": "Which of the following is a valid variable declaration in Dart?",
+        "options": ["int 1var;", "int var1;", "var var-name;"],
+        "correctAnswer": "int var1;"
+      }
+    ],
+    "Python Syntax": [
+      {
+        "question": "Which symbol is used to end a statement in Python?",
+        "options": [".", ";", ":"],
+        "correctAnswer": ""
+      },
+      {
+        "question": "What is the correct way to define a function in Python?",
+        "options": ["def function():", "function():", "define function()"],
+        "correctAnswer": "def function():"
+      },
+      {
+        "question": "Which of the following is a valid comment in Python?",
+        "options": ["# This is a comment", "// This is a comment", "/* This is a comment"],
+        "correctAnswer": "# This is a comment"
+      }
+    ]
+  }
+  
